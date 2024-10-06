@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "726321217295",
+    "project_id": "practicamovil-5711e",
+    "storage_bucket": "practicamovil-5711e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:726321217295:android:94b05342a083940e5ac87a",
+        "android_client_info": {
+          "package_name": "com.codigocorrecto.auth_2024"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwB2NwgUWLkp_QYPhkfNnjIpzIrqlJdwA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:726321217295:android:ab44e4ef5d8749935ac87a",
+        "android_client_info": {
+          "package_name": "com.example.auth_2024"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwB2NwgUWLkp_QYPhkfNnjIpzIrqlJdwA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
